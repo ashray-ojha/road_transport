@@ -1,0 +1,20 @@
+1. How can I create a account in OTC ?
+    
+   Choose the option User Login then New User. Create a new user ID and a unique passwaord. Use this user ID and password whenever you login next time.
+
+2. How can I find bus and routes to book ticket ?
+
+    Login through your user ID and password if you are a existing user or choose New User option to create a new account. After you login choose Search Buses.
+    Then enter starting point and ending point to see the list of buses between the stations.
+
+3.  How can I book a ticket for a bus ?
+
+     After you login choose book tickets. Enter bus number,date of travelling and number of tickets.
+
+4.  How can I know the details of a particular bus like start time, end time, halting stations ?
+
+     When you search for buses, it will show you the above details. 
+
+5.  How many days before can I book a ticket ?
+
+     You can book a ticket maximum 5 days before and atleast a day before your travelling date.
